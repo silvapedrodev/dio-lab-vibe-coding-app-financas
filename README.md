@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte de um **Desafio de Projeto da DIO** de **Vibe Coding** utilizando o **Lovable** e o **Copilot Web**.
 A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural, permitindo que o usuário converse com um assistente virtual especializado em finanças para gerenciar gastos, metas e relatórios.
 
-## 📝 PRD Refinado no Copilot Web
+## 📝 PRD (Product Requirements Document) Refinado no Copilot Web
 
 ```markdown
 # PRD – Plataforma de Organização de Finanças Pessoais
